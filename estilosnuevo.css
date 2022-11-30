@@ -1,0 +1,30 @@
+r{
+    background-color: black;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    height: 100px;
+}
+
+body { background-color: #FF0000; }
+
+/*Estilo para las imagenes*/
+
+.responsive{
+    float: /*Estilo del Encabezado/Titulo*/
+
+
+headeleft;
+    width: 500px; 
+    background-color: black;
+}
+div.gallery img{
+    width: 100%;
+    height: auto;
+}
+div.desc{
+    padding: 8px;
+    text-align: center;
+    color: white;
+}
